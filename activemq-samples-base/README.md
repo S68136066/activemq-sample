@@ -297,8 +297,8 @@ http://doc.yonyoucloud.com/doc/JMS2CN/index.html
 
 #### JMS 1.1 中文文档
 
-**百度云链接：**https://pan.baidu.com/s/1DKfiCeMrdf4unho2s2mY5g 
-**提取码：**rpc3 
+百度云链接：https://pan.baidu.com/s/1DKfiCeMrdf4unho2s2mY5g 
+提取码：rpc3 
 
 #### 借鉴博客
 
