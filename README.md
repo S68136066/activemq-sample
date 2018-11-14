@@ -4,11 +4,11 @@
 
 
 
-| Sample                      | ActiveMQ Description                                         | Project Description                                          |
-| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| activemq-samples-base       | JMS 基础 生产者、消费者以及 JMS 提供者案例                   | 基于 Maven 创建项目，实现 JMS 简单操作。 |
-| activemq-samples-spring     | Spring 整合 ActiveMQ，消息队列、发布订阅以及消息响应。       |                                                              |
-| activemq-samples-springboot | SpringBoot 整合 ActiveM, 消息队列与发布订阅两种消息通信模型，以及消息响应。 |                                                              |
+| Sample                      | ActiveMQ Description                                         |
+| --------------------------- | ------------------------------------------------------------ |
+| activemq-samples-base       | JMS 基础 生产者、消费者以及 JMS 提供者案例                   |
+| activemq-samples-spring     | Spring 整合 ActiveMQ，消息队列、发布订阅以及消息响应。       |
+| activemq-samples-springboot | SpringBoot 整合 ActiveM, 消息队列与发布订阅两种消息通信模型，以及消息响应。 |
 
 
 
